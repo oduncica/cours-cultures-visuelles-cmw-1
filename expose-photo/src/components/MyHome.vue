@@ -59,7 +59,7 @@
   .nav-btn {
     display: inline-block;
     padding: 12px 20px;
-    background-color: #007BFF;
+    background-color: #BED3C3;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -69,7 +69,7 @@
   }
   
   .nav-btn:hover {
-    background-color: #0056b3;
+    background-color: #BED3C3;
   }
   </style>
   
